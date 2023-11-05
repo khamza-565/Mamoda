@@ -1,0 +1,17 @@
+.flex {
+    display: flex;
+    
+    padding: 0px 50px;
+    
+}
+
+.fleximg {
+    border-radius: 10px;
+    margin-left: 200px;
+}
+
+.texti {
+    width: 550px;
+    text-align: left;
+    margin-top: 50px;
+}
